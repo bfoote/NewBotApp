@@ -7,6 +7,7 @@ using Microsoft.Bot.Connector;
 
 namespace NewBotApp
 {
+    // Hello worl
     [BotAuthentication]
     public class MessagesController : ApiController
     {
